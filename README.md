@@ -8,7 +8,7 @@
 * react-redux
 * todomvc-app-css
 
-## Directoies
+## Directories
 
 * public(静态文件依赖)
   - index.html(网页文件，此处可以修改应用在浏览器中的标题等信息)
