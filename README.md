@@ -32,21 +32,15 @@
   - store.js(redux中的store，存取状态数据)
 * .eslintrc(ESLint扩展配置文件)
 
-## 使用方法
+## Usage
 
-**进入 TodoList 文件夹**
-
-```bash
-cd TodoList
-```
-
-**安装项目依赖**
+**Install dependencies**
 
 ```bash
 npm install
 ```
 
-**运行代码**
+**Run code**
 
 ```bash
 npm start
