@@ -1,6 +1,14 @@
-# React 技术栈 TodoList 实战源码使用说明
+# React Ecosystem Todo App
 
-## 目录结构
+## Dependencies
+
+* React
+* Redux
+* react-router
+* react-redux
+* todomvc-app-css
+
+## Directoies
 
 * public(静态文件依赖)
   - index.html(网页文件，此处可以修改应用在浏览器中的标题等信息)
@@ -37,8 +45,6 @@ cd TodoList
 ```bash
 npm install
 ```
-
-覆盖替换每节课程的 `src` 目录以查阅该节课程源码及运行效果
 
 **运行代码**
 
